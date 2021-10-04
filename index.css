@@ -1,0 +1,33 @@
+html {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #31004A;
+	font-family: Pacifico;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	text-align: center;
+}
+
+div.content {
+	font-size: 5em;
+	margin-top: -.5em;
+}
+
+a {
+	color: #C945F5;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFD300;
+	text-decoration: none;
+}
